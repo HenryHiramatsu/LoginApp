@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3ds\\source\\repos\\LoginApp\\",
+  "WorkspaceRootPath": "C:\\Users\\3ds\\Desktop\\LoginApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\source\\repos\\loginapp\\loginapp\\models\\constantes\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\models\\constantes\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\desktop\\loginapp\\loginapp\\repositorio\\contrato\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\repositorio\\contrato\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\source\\repos\\loginapp\\loginapp\\models\\constantes\\situacaoconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\desktop\\loginapp\\loginapp\\repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\desktop\\loginapp\\loginapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\desktop\\loginapp\\loginapp\\models\\constantes\\situacaoconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\models\\constantes\\situacaoconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\source\\repos\\loginapp\\loginapp\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\desktop\\loginapp\\loginapp\\models\\constantes\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\models\\constantes\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\desktop\\loginapp\\loginapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\desktop\\loginapp\\loginapp\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\source\\repos\\loginapp\\loginapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\desktop\\loginapp\\loginapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|c:\\users\\3ds\\source\\repos\\loginapp\\loginapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA738D93-D96D-4BE6-AEA2-AFDDEF6CBB94}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +42,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Repositorio\\ClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeToolTip": "LoginApp\\Repositorio\\ClienteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:23:18.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Repositorio\\Contrato\\IClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Repositorio\\Contrato\\IClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Repositorio\\Contrato\\IClienteRepositorio.cs",
+              "RelativeToolTip": "LoginApp\\Repositorio\\Contrato\\IClienteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:22:58.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\appsettings.json",
+              "RelativeToolTip": "LoginApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T14:13:48.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ColaboradorTipoConstante.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\Models\\Constantes\\ColaboradorTipoConstante.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Models\\Constantes\\ColaboradorTipoConstante.cs",
               "RelativeDocumentMoniker": "LoginApp\\Models\\Constantes\\ColaboradorTipoConstante.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\Models\\Constantes\\ColaboradorTipoConstante.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Models\\Constantes\\ColaboradorTipoConstante.cs",
               "RelativeToolTip": "LoginApp\\Models\\Constantes\\ColaboradorTipoConstante.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T15:07:10.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SituacaoConstantes.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\Models\\Constantes\\SituacaoConstantes.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Models\\Constantes\\SituacaoConstantes.cs",
               "RelativeDocumentMoniker": "LoginApp\\Models\\Constantes\\SituacaoConstantes.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\Models\\Constantes\\SituacaoConstantes.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Models\\Constantes\\SituacaoConstantes.cs",
               "RelativeToolTip": "LoginApp\\Models\\Constantes\\SituacaoConstantes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T14:59:56.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Colaborador.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\Models\\Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Models\\Colaborador.cs",
               "RelativeDocumentMoniker": "LoginApp\\Models\\Colaborador.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\Models\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Models\\Colaborador.cs",
               "RelativeToolTip": "LoginApp\\Models\\Colaborador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,24 +124,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\Models\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "LoginApp\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Models\\Cliente.cs",
               "RelativeToolTip": "LoginApp\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T14:58:26.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "LoginApp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "LoginApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

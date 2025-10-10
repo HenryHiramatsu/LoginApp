@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\LoginApp.csproj",
+      "projectUniqueName": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\LoginApp.csproj",
       "projectName": "LoginApp",
-      "projectPath": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\LoginApp.csproj",
+      "projectPath": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\LoginApp.csproj",
       "packagesPath": "C:\\Users\\3ds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3ds\\source\\repos\\LoginApp\\LoginApp\\obj\\",
+      "outputPath": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
