@@ -54,6 +54,10 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[9.5.0, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[10.5.9, )"
             }
           },
           "imports": [

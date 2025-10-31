@@ -1,4 +1,5 @@
 ﻿using LoginApp.Models;
+using X.PagedList;
 
 namespace LoginApp.Repositorio.Contrato
 {
@@ -17,9 +18,10 @@ namespace LoginApp.Repositorio.Contrato
         void Desativar(int id);
         void Excluir(int id);
         Cliente ObterClienteId(int Id);
-        Cliente BuscarEmailCliente(string Email);
+        Cliente BuscaEmailCliente(string Email);
+        Cliente BuscaCpfCliente(string CPF);
 
         IEnumerable<Cliente> ObterTodosClientes();
-        //IPagedList<Cliente> ObterTodosClientes(int? pagina, string pesquisa)
+        IPagedList<Cliente> ObterTodosClientes(int? pagina, string pesquisa);
     }
 }

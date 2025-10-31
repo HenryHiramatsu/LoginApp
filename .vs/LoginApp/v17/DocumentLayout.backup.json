@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "LoginApp\\Repositorio\\ClienteRepositorio.cs",
               "ToolTip": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Repositorio\\ClienteRepositorio.cs",
               "RelativeToolTip": "LoginApp\\Repositorio\\ClienteRepositorio.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAcwNEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T14:23:18.839Z",
               "EditorCaption": ""
@@ -65,7 +65,7 @@
               "RelativeDocumentMoniker": "LoginApp\\Repositorio\\Contrato\\IClienteRepositorio.cs",
               "ToolTip": "C:\\Users\\3ds\\Desktop\\LoginApp\\LoginApp\\Repositorio\\Contrato\\IClienteRepositorio.cs",
               "RelativeToolTip": "LoginApp\\Repositorio\\Contrato\\IClienteRepositorio.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T14:22:58.182Z",
               "EditorCaption": ""
@@ -80,8 +80,7 @@
               "RelativeToolTip": "LoginApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-10T14:13:48.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T14:13:48.396Z"
             },
             {
               "$type": "Document",
@@ -93,8 +92,7 @@
               "RelativeToolTip": "LoginApp\\Models\\Constantes\\ColaboradorTipoConstante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T15:07:10.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T15:07:10.587Z"
             },
             {
               "$type": "Document",
@@ -106,8 +104,7 @@
               "RelativeToolTip": "LoginApp\\Models\\Constantes\\SituacaoConstantes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T14:59:56.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T14:59:56.997Z"
             },
             {
               "$type": "Document",
@@ -119,8 +116,7 @@
               "RelativeToolTip": "LoginApp\\Models\\Colaborador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T14:59:02.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T14:59:02.14Z"
             },
             {
               "$type": "Document",
@@ -132,8 +128,7 @@
               "RelativeToolTip": "LoginApp\\Models\\Cliente.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA7wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T14:58:26.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T14:58:26.062Z"
             },
             {
               "$type": "Document",
@@ -145,8 +140,7 @@
               "RelativeToolTip": "LoginApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T14:57:53.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T14:57:53.179Z"
             }
           ]
         }
